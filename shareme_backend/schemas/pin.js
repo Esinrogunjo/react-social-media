@@ -33,13 +33,13 @@ export default {
     },
 
     {
-      name: "userid",
+      name: "userId",
       title: "UserID",
       type: "string",
     },
     {
-      name: "postedby",
-      title: "Postedby",
+      name: "postedBy",
+      title: "PostedBy",
       type: "postedBy",
     },
     {
